@@ -1,5 +1,5 @@
 # A simple ChatGPT frontend in Django using gpt-3.5-turbo model and API
-by [Victor Donoso](https://github.com/victordonoso)
+by [SuperPhantom](https://github.com/Super-Phantoms)
 
 This project uses the new [gpt-3.5-turbo](https://platform.openai.com/docs/guides/chat/chat-completions-beta) model API from [OpenAI](https://openai.com/) and a [Django](https://www.djangoproject.com/) webserver to make a simple chatbot frontend to run it locally, consuming your own OpenAI credits by using your API Key.
 
@@ -15,7 +15,7 @@ I've added Bootstrap to the frontend to make it look a bit nicer.
 5. Go to `http://localhost:8000/` to interact with the bot.
 
 ## TODO
-- [ ] Dunno.
+- [ ] Super-Phantom.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
