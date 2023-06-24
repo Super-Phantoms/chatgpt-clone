@@ -15,13 +15,13 @@ import os
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = ''
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-08-628s1*@@u6n%x2k4e%ds!_@pga0od%=60a$qn93qtl_x7c_'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
